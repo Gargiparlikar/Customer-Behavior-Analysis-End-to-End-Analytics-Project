@@ -4,7 +4,7 @@
 
 
 
-![Customer Behavior Dashboard](https://github.com/yourusername/yourrepo/assets/dashboard_image.png)
+![Customer Behavior Dashboard](https://github.com/Gargiparlikar/Customer-Behavior-Analysis-End-to-End-Analytics-Project/blob/main/Screenshot%202025-12-09%20115350.png)
 
 ## 📌 Project Overview
 
