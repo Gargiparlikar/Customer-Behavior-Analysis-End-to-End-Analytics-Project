@@ -4,7 +4,7 @@
 
 
 
-![Customer Behavior Dashboard](https://github.com/Gargiparlikar/Customer-Behavior-Analysis-End-to-End-Analytics-Project/blob/main/Screenshot%202025-12-09%20115350.png)
+![Customer Behavior Dashboard](https://github.com/Gargiparlikar/Customer-Behavior-Analysis-End-to-End-Analytics-Project/blob/main/Screenshot%202025-12-27%20195044.png)
 
 ## 📌 Project Overview
 
